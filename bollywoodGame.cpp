@@ -1,11 +1,3 @@
-/*	toss to choose player  then player wish to choose
--input movie name
--choose type of movie bollywood /hollywood		// one can make guess == size of word movie type
-player- will guess if match then place that alphabet on its position   until all match otherwise game in progress
-
-two choices 1)	guess alphabets		2) make move
-*/
-
 #include<iostream>
 #include<string>
 #include<stdbool.h>
